@@ -1,2 +1,2 @@
-# iOS_HackSprint_W18
+# iOS_HackSprint
 iOS practice apps for HackSprint sessions
